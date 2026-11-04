@@ -27,8 +27,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/elastic/go-elasticsearch/v7"
-	"github.com/elastic/go-elasticsearch/v7/estransport"
+	"github.com/yangling94116/go-elasticsearch/v7"
+	"github.com/yangling94116/go-elasticsearch/v7/estransport"
 )
 
 func init() {
@@ -72,7 +72,7 @@ func ExampleNewClient() {
 }
 
 func ExampleNewClient_logger() {
-	// import "github.com/elastic/go-elasticsearch/v7/estransport"
+	// import "github.com/yangling94116/go-elasticsearch/v7/estransport"
 
 	// Use one of the bundled loggers:
 	//

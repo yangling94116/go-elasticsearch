@@ -26,7 +26,7 @@ import (
 	"net/url"
 	"testing"
 
-	"github.com/elastic/go-elasticsearch/v7/estransport"
+	"github.com/yangling94116/go-elasticsearch/v7/estransport"
 )
 
 func BenchmarkTransportLogger(b *testing.B) {

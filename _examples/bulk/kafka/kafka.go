@@ -36,14 +36,14 @@ import (
 
 	"github.com/dustin/go-humanize"
 
-	"github.com/elastic/go-elasticsearch/v7"
-	"github.com/elastic/go-elasticsearch/v7/esutil"
+	"github.com/yangling94116/go-elasticsearch/v7"
+	"github.com/yangling94116/go-elasticsearch/v7/esutil"
 
 	"go.elastic.co/apm"
 	"go.elastic.co/apm/module/apmelasticsearch"
 
-	"github.com/elastic/go-elasticsearch/v7/_examples/bulk/kafka/consumer"
-	"github.com/elastic/go-elasticsearch/v7/_examples/bulk/kafka/producer"
+	"github.com/yangling94116/go-elasticsearch/v7/_examples/bulk/kafka/consumer"
+	"github.com/yangling94116/go-elasticsearch/v7/_examples/bulk/kafka/producer"
 )
 
 var (

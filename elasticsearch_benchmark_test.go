@@ -27,8 +27,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/elastic/go-elasticsearch/v7"
-	"github.com/elastic/go-elasticsearch/v7/esapi"
+	"github.com/yangling94116/go-elasticsearch/v7"
+	"github.com/yangling94116/go-elasticsearch/v7/esapi"
 )
 
 var defaultResponse = http.Response{

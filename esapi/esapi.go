@@ -22,7 +22,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/elastic/go-elasticsearch/v7/internal/version"
+	"github.com/yangling94116/go-elasticsearch/v7/internal/version"
 )
 
 // Version returns the package version as a string.

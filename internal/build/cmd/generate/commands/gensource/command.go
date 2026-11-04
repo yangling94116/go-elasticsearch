@@ -20,7 +20,7 @@ package gensource
 import (
 	"bytes"
 	"fmt"
-	"github.com/elastic/go-elasticsearch/v7/internal/build/cmd"
+	"github.com/yangling94116/go-elasticsearch/v7/internal/build/cmd"
 	"io"
 	"os"
 	"path/filepath"
@@ -29,7 +29,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/elastic/go-elasticsearch/v7/internal/build/utils"
+	"github.com/yangling94116/go-elasticsearch/v7/internal/build/utils"
 )
 
 var (

@@ -20,7 +20,7 @@
 package model
 
 import (
-	"github.com/elastic/go-elasticsearch/v7/esutil"
+	"github.com/yangling94116/go-elasticsearch/v7/esutil"
 )
 
 // BulkIndexerResponse wraps the esutil.BulkIndexerResponse,

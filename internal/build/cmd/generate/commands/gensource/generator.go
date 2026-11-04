@@ -26,7 +26,7 @@ import (
 
 	"golang.org/x/tools/imports"
 
-	"github.com/elastic/go-elasticsearch/v7/internal/build/utils"
+	"github.com/yangling94116/go-elasticsearch/v7/internal/build/utils"
 )
 
 // Generator represents the "gensource" generator.
